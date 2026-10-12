@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/Compliance-SOC2_Type_II-blue?style=for-the-badge" alt="SOC2" />
   <img src="https://img.shields.io/badge/Standard-PCI--DSS_v4.0-red?style=for-the-badge" alt="PCI-DSS" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
+  <a href="https://www.agensi.io/skills/fintech-audit-traceability">
+    <img src="https://img.shields.io/badge/Instant_Install-Agensi_Skill-8A2BE2?style=for-the-badge&logo=curseforge&logoColor=white" alt="Install on Agensi" />
+  </a>
 </p>
 
 > An open-source compliance engineering engine for banking, payments, and wealth management software. Audits code diffs against **PCI-DSS v4.0**, **SOC2 Type II**, and **SOX 404** standards, detects unmasked cardholder/PII logging, and auto-generates audit-ready **Traceability Matrices**.
